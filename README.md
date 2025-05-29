@@ -1,2 +1,3 @@
-# preentrega
-Preentrega
+Pre entrega de Proyecto de Talento Tech.
+Puse en práctica todos los conocimientos adquiridos a lo largo del curso, generando diferentes archivos HTMLs con sus tags correspondientes para maquetar el sitio de una librería propia. Utilicé estilos css para mejorar la estética de la web, para visualizarla de manera correcta desde una PC o desde un celular o tablet, aplicando Flexbox, Grid y mediante el uso de media queries.
+La web cuenta con una sección de los productos que estarán a la venta próximamente; una de las reseñas que los diferentes usuarios han dejado sobre sus experiencias en la plataforma; y una de contacto para que puedan escribirme en caso de tener alguna consulta.
